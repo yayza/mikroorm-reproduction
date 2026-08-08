@@ -12,9 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@mikro-orm/core": "next",
-    "@mikro-orm/decorators": "next",
-    "@mikro-orm/sqlite": "next",
-    "reflect-metadata": "^0.2.2"
+    "@mikro-orm/postgresql": "next"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
